@@ -1,4 +1,4 @@
-# ✨ Chatter: Realtime Chat ✨
+# ✨ Chattr: Realtime Chat ✨
 
 Highlights:
 
